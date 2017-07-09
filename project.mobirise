@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "nyambek21",
+    "currentPage": "kuro21",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -41,6 +41,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": false,
@@ -63,15 +71,7 @@
           },
           "title": "Ebony Sexy Room Girl",
           "text": "FREE JOIN ONLY BY EMAIL",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://deanna.dating-with-Facywat.top/XXVGjunieUXQZ.php\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>JOIN FREE</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://deanna.dating-with-Facywat.top/XXVGjunieUXQZ.php\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>JOIN FREE</a> "
         }
       ]
     },
